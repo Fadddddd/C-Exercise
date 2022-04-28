@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "MLf1K6Qe2ZtaoLDLnH5NbcKH4GNu7wXMcJnSSsKDNVgR/vAwk7nxqP0RmpJq8GlAEE6MM68EdyH/e2iVBGFQMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ElHannachi.Fadoua\\ContosoPizza\\ContosoPizza.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ElHannachi.Fadoua\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ElHannachi.Fadoua\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ElHannachi.Fadoua\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\ElHannachi.Fadoua\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\ElHannachi.Fadoua\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\ElHannachi.Fadoua\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
